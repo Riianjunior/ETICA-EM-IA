@@ -56,5 +56,25 @@ Supervisão ética por comitês multidisciplinares, garantindo a observância do
 Posicionamento:
 
  Considera-se adequada a decisão da Amazon em descontinuar seu sistema de recrutamento enviesado. Em relação ao sistema COMPAS, embora apresente riscos éticos significativos, é possível aprimorá-lo para que contribua positivamente ao sistema judicial, desde que sejam implementadas práticas éticas rigorosas. Ressalta-se que a inovação tecnológica jamais deve se sobrepor aos princípios da justiça social. É imperativo que os profissionais da área de tecnologia adotem posturas responsáveis, assegurando que suas criações promovam a inclusão, a transparência e a equidade.
+nálise Ética do Sistema de Recrutamento da Amazon: Identificação de Problemas e Recomendações
+
+Contextualização:
+O sistema de recrutamento desenvolvido pela Amazon operava como uma “caixa-preta” (black box), em que as decisões algorítmicas careciam de transparência e não eram passíveis de explicação para os indivíduos afetados.
+
+Problemas Identificados:
+
+Falta de Transparência: Os candidatos não eram informados acerca da utilização de inteligência artificial na avaliação de seus currículos, tampouco sobre os critérios adotados para a tomada de decisão.
+
+Inexplicabilidade: Ausência de mecanismos que permitissem a explicação dos motivos pelos quais determinados currículos eram rejeitados ou priorizados pelo sistema.
+
+Ausência de Auditoria: O sistema não estava submetido a verificações regulares para identificação e mitigação de vieses ou problemas relacionados à equidade algorítmica.
+
+Recomendações embasadas no framework de análise ética:
+
+Transparência Obrigatória: Garantir que os candidatos sejam devidamente informados sobre a utilização de inteligência artificial no processo seletivo, incluindo a descrição dos critérios adotados sempre que possível.
+
+Explicabilidade Técnica: Implementar ferramentas e metodologias que possibilitem a explicação clara e acessível das decisões tomadas pela IA, promovendo maior compreensão e confiança dos usuários afetados.
+
+Auditoria Contínua: Estabelecer processos periódicos e independentes de auditoria para identificar, monitorar e mitigar vieses algorítmicos, assegurando a justiça e a equidade no processo seletivo.
 
 #EticaEmIA #InteligenciaArtificial #ViésAlgoritmico #DiversidadeETecnologia #Recrutamento"
