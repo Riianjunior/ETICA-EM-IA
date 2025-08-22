@@ -35,5 +35,26 @@ Análise O sistema operava como uma “caixa-preta” (black box), apresentando 
 Posicionamento Considera-se que a decisão da Amazon de descontinuar o sistema foi apropriada e necessária. Recomenda-se que futuras ferramentas de recrutamento baseadas em inteligência artificial sejam submetidas a auditorias rigorosas de vieses antes de sua implementação, além de contar com a supervisão de comitês de ética multidisciplinares.
 
 A inovação tecnológica não deve, em hipótese alguma, comprometer os princípios de equidade e justiça social. Assim, cabe aos profissionais da área de tecnologia refletir e adotar práticas que assegurem a promoção da justiça e da inclusão em suas criações.
+Um algoritmo pode ser injusto? Analisamos o caso do sistema de recrutamento da Amazon, que se revelou enviesado contra mulheres.
+
+A possibilidade de injustiça em algoritmos: uma reflexão sobre ética na Inteligência Artificial
+
+Problema:
+
+ A utilização de algoritmos em contextos sensíveis, como o sistema judiciário e processos de recrutamento, pode reproduzir e até intensificar desigualdades sociais existentes. No caso do sistema de justiça preditiva COMPAS, diversos estudos evidenciam a existência de viés racial que superestima o risco de reincidência para indivíduos negros. De maneira análoga, o sistema de recrutamento desenvolvido pela Amazon, treinado com dados históricos oriundos de uma indústria predominantemente masculina, passou a penalizar currículos contendo termos associados ao gênero feminino. A ausência de transparência, associada ao caráter opaco desses sistemas — conhecidos como “caixa-preta” —, dificulta a fiscalização e potencializa os impactos sociais adversos.
+
+Solução:
+
+Redesenho e aprimoramento dos algoritmos, com ênfase na mitigação de vieses discriminatórios;
+
+Realização de auditorias independentes e rigorosas, tanto prévias quanto contínuas, durante a implementação das ferramentas;
+
+Promoção da transparência integral e da explicabilidade dos sistemas, de modo a permitir que usuários e partes afetadas compreendam e questionem as decisões automatizadas;
+
+Supervisão ética por comitês multidisciplinares, garantindo a observância dos princípios de justiça, equidade e respeito aos direitos fundamentais.
+
+Posicionamento:
+
+ Considera-se adequada a decisão da Amazon em descontinuar seu sistema de recrutamento enviesado. Em relação ao sistema COMPAS, embora apresente riscos éticos significativos, é possível aprimorá-lo para que contribua positivamente ao sistema judicial, desde que sejam implementadas práticas éticas rigorosas. Ressalta-se que a inovação tecnológica jamais deve se sobrepor aos princípios da justiça social. É imperativo que os profissionais da área de tecnologia adotem posturas responsáveis, assegurando que suas criações promovam a inclusão, a transparência e a equidade.
 
 #EticaEmIA #InteligenciaArtificial #ViésAlgoritmico #DiversidadeETecnologia #Recrutamento"
